@@ -1,0 +1,10 @@
+h5py
+tensorflow
+numpy
+scipy
+regex
+Flask
+flask-cors
+ccg_nlpy
+gensim
+requests
