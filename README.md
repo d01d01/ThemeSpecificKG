@@ -7,7 +7,6 @@ The is the code for the KDD 2024 submit paper "Automated Construction of Theme-s
 3. Run requirements `pip install -r requirements.txt`
 4. set your openai token in the file RelationExtraction.py to run the GPT-4.
 ## Use the System
-## test with my data
 ### Input
 The input of the framework include (1) a theme (2) theme-related documents. I provide two datasets (1) electric vehicle battery in dataset/EVB and (2) Hamas-attack-Israel in dataset/HAI. 
 ### Inference and output
